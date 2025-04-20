@@ -1,3 +1,3 @@
 This piece of work is part of a Project Based Learning program.
-Created by Aaditya Chand Ramola, Ankush Pachori, Gaurav Kumar students of CSE.
+Created by my team.
 Code is free to all, use as your wish...
